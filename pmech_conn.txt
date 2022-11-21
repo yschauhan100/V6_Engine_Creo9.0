@@ -1,0 +1,10 @@
+       Error Diagnostics for Analysis/Assembly Failure
+
+  All position constraints can't be simultaneously satisfied. 
+The following position constraints can't be satisfied:
+
+
+1) Non Liftoff constraint of cam Cam Follower1 in model
+SUB_ASSEMBLE_CYLINDER_HEAD_V6 can't be satisfied.
+
+
